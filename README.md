@@ -2,7 +2,7 @@
 ####
 ![image](./grid2.png)
 ####
-![image](./parr1.jpg)
+![image](./parr1.png)
 ###
-![image](./parr2.jpg)
+![image](./parr2.png)
 
